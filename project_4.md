@@ -232,3 +232,12 @@ In the Books directory, run server.js
 node server.js
 ```
 ![alt text](/images/8.png)
+
+Set up security group to open port 3300 in aws.
+
+![alt text](/images/10.png)
+
+View in browser and add some entries.
+![alt text](/images/11.png)
+
+Done!!! :joy:
