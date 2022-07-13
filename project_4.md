@@ -240,4 +240,4 @@ Set up security group to open port 3300 in aws.
 View in browser and add some entries.
 ![alt text](/images/11.png)
 
-Done!!! :happy:
+Done!!! :+1:
